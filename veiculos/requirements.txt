@@ -1,0 +1,19 @@
+# Interface web
+streamlit>=1.25.0
+
+# Manipulação de dados
+pandas>=2.1.0
+
+# Conexão com MySQL
+mysql-connector-python>=8.1.0
+
+# Visualizações interativas
+plotly>=6.0.0
+
+# Requisições HTTP (ex.: GeoJSON)
+requests>=2.31.0
+
+# Exportação de arquivos
+openpyxl>=3.1.0         # Excel
+python-docx>=0.8.12     # Word
+fpdf2>=2.6.0            # PDF
